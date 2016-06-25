@@ -1,5 +1,7 @@
 ---
 title: "Linear Algebra in R with Applications to Linear Regression"
+author: "Patrick Walls"
+date: "June 23, 2016"
 output: html_document
 ---
 
